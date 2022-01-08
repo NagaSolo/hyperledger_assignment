@@ -1,7 +1,7 @@
 require('dotenv').config();
 const mongoose = require('mongoose')
 
-const DB = "mongodb://mongo:27017/useraddressapidb"
+const DB = "mongodb://mongo-db:27017/useraddressapidb"
 
 mongoose
   .connect(DB, {

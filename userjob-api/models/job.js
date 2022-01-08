@@ -15,4 +15,4 @@ const jobsSchema = new mongoose.Schema({
     }
   })
 
-  module.exports = mongoose.model('Job', usersSchema)
+  module.exports = mongoose.model('Job', jobsSchema)
