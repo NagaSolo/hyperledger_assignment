@@ -6,7 +6,6 @@ node_modules
 ./userjob-api/node_modules
 npm-debug.log
 .env
-Dockerfile
 docker-compose.yml
 Makefile
 notes.yml
