@@ -8,6 +8,4 @@ RUN  npm install
 
 COPY . .
 
-COPY ./node_modules ./src/pages
-
 CMD ["npm", "start"]
