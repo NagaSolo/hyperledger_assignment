@@ -1,7 +1,0 @@
-node_modules
-./frontend/node_modules
-npm-debug.log
-.env
-Dockerfile
-docker-compose.yml
-Makefile
