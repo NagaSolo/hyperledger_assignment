@@ -1,0 +1,7 @@
+![hyperledger_fabric_week3-step1](https://user-images.githubusercontent.com/63999419/150633462-efba6000-5522-4c97-8e36-dd5d528d3bf5.png)
+![hyperledger_fabric_week3-step2-deploying-chaincode](https://user-images.githubusercontent.com/63999419/150633464-2a373498-ac90-4524-8a59-5e935c69e3b9.png)
+![hyperledger_fabric_week3-step3-simplifying-env](https://user-images.githubusercontent.com/63999419/150633465-fd19b1ea-a9b6-43bf-abda-f05e67108246.png)
+![hyperledger_fabric_week3-step4-5-initialize-ledger](https://user-images.githubusercontent.com/63999419/150633466-bb9c351c-1ade-4b50-a2f4-34f1c93ded69.png)
+![hyperledger_fabric_week3-step6-query-assets](https://user-images.githubusercontent.com/63999419/150633467-b04a97c1-5dad-4b19-a126-f9b2901de566.png)
+![hyperledger_fabric_week3-step7-change-asset-ownership](https://user-images.githubusercontent.com/63999419/150633468-3e44c2f6-3b41-4e8f-9405-b662a195a5f9.png)
+![hyperledger_fabric_week3-step8-9-configure-network-query-asset-change](https://user-images.githubusercontent.com/63999419/150633469-594c0dc0-dc4c-4692-ab23-75e6036155ae.png)
